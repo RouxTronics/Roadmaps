@@ -28,9 +28,8 @@ description: Room Personally Completed
 * [x] [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 * [x] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 * [x] [Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
-* [x] &#x20;[Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
-* [ ] [How Websites Work](https://tryhackme.com/room/howwebsiteswork)\
-  [Putting it all together](https://tryhackme.com/room/puttingitalltogether)\
+* [x] &#x20;[Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)\
+  \
   DNS in Detail\
   HTTP in Detail\
   [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)\
