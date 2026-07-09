@@ -4,7 +4,7 @@ description: Room Personally Completed
 
 # ⭐ Personal
 
-## Completed
+## Walkthrough
 
 * [x] &#x20;[Search Skills](https://tryhackme.com/room/searchskillscS)
 * [x] [OpenVPN](https://tryhackme.com/room/openvpn)
@@ -28,17 +28,16 @@ description: Room Personally Completed
 * [x] [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 * [x] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 * [x] [Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
-* [x] &#x20;[Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)\
-  \
-  DNS in Detail\
-  HTTP in Detail\
-  [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)\
-  Security Principles\
-  Governance & Regulation\
-  Network Services\
-  Network Services 2\
-  Common Attacks\
-  Networking Concepts<br>
+* [x] &#x20;[Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
+* [ ] [DNS in Detail](https://tryhackme.com/room/dnsindetail)
+* [ ] [HTTP in Detail](https://tryhackme.com/room/httpindetail)
+* [ ] [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
+* [ ] Security Principles
+* [ ] Governance & Regulation
+* [ ] Network Services
+* [ ] Network Services 2
+* [ ] Common Attacks
+* [ ] Networking Concepts<br>
 
 ## Challenges&#x20;
 
