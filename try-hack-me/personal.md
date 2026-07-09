@@ -32,12 +32,12 @@ description: Room Personally Completed
 * [ ] [DNS in Detail](https://tryhackme.com/room/dnsindetail)
 * [ ] [HTTP in Detail](https://tryhackme.com/room/httpindetail)
 * [ ] [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
-* [ ] Security Principles
-* [ ] Governance & Regulation
-* [ ] Network Services
-* [ ] Network Services 2
-* [ ] Common Attacks
-* [ ] Networking Concepts<br>
+* [ ] [Security Principles](https://tryhackme.com/room/securityprinciples)
+* [ ] [Governance & Regulation](https://tryhackme.com/room/cybergovernanceregulation)
+* [ ] [Network Services](https://tryhackme.com/room/networkservices2)
+* [ ] [Network Services 2](https://tryhackme.com/room/networkservices2)
+* [ ] [Common Attacks](https://tryhackme.com/room/commonattacks)
+* [ ] [Networking Concepts](https://tryhackme.com/room/networkingconcepts)<br>
 
 ## Challenges&#x20;
 
