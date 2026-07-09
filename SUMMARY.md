@@ -7,6 +7,7 @@
 * [⭐ Personal](try-hack-me/personal.md)
 * [Free](try-hack-me/free.md)
 * [Free 2](try-hack-me/free-2.md)
+* [Paid](try-hack-me/paid.md)
 
 ## Hack The Box
 
