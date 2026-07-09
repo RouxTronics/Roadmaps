@@ -4,9 +4,9 @@
 
 ## Try Hack Me
 
+* [⭐ Personal](try-hack-me/personal.md)
 * [Free](try-hack-me/free.md)
 * [Free 2](try-hack-me/free-2.md)
-* [Personal](try-hack-me/personal.md)
 
 ## Hack The Box
 
