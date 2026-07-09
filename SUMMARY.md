@@ -13,7 +13,6 @@
 
 ***
 
-* [Hack The Box](hack-the-box-1.md)
 * [Personal Room & Modules](personal-room.md)
 * [picoCTF](picoctf.md)
 * [TryHackMe](try-hack-me-1.md)
