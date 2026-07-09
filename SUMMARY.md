@@ -5,6 +5,7 @@
 ## Try Hack Me
 
 * [Free](try-hack-me/free.md)
+* [Free 2](try-hack-me/free-2.md)
 
 ***
 
