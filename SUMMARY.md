@@ -9,10 +9,10 @@
 
 ## Hack The Box
 
-* [Page 1](hack-the-box/page-1.md)
+* [Machine Tracks](hack-the-box/machine-tracks.md)
 * [Certifications](hack-the-box/certifications.md)
 
 ***
 
 * [picoCTF](picoctf.md)
-* [Page 2](page-2.md)
+* [Over The Wire](over-the-wire.md)

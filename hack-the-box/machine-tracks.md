@@ -1,31 +1,24 @@
-# Page 1
+# Machine Tracks
 
-> Starting Point → Active Machines → Academy (CPTS path)
->
-> `⭐ = Recommended for beginners`
+> <i class="fa-crown" style="color:$warning;">:crown:</i> - needs **VIP/Paid** subscription
 >
 > [Team page](https://app.hackthebox.com/public/teams/7654)
->
-> [Join via referral](https://referral.hackthebox.com/mzC9F4k)
 
 <a href="https://referral.hackthebox.com/mzC9F4k" class="button primary">Get Started</a>
 
 ### 📊 Progress Summary
 
-| Tier                  | Focus                          | Items | Done |
-| --------------------- | ------------------------------ | ----- | ---- |
-| Starting Point Tier 0 | VPN, basic service interaction | 8     | 3    |
-| Starting Point Tier 1 | Single-step exploitation       | 6     | 0    |
-| Starting Point Tier 2 | Full kill chain, 2 flags       | 9     | 0    |
-| Academy / CPTS Path   | Theory + guided labs           | 28    | 24   |
+| Tier                   | Focus                          | Items | Done |
+| ---------------------- | ------------------------------ | ----- | ---- |
+| Starting Point  Tier 0 | VPN, basic service interaction | 8     | 3    |
+| Starting Point Tier 1  | Single-step exploitation       | 6     | 0    |
+| Starting Point Tier 2  | Full kill chain, 2 flags       | 9     | 0    |
 
 ***
 
 ## Starting Point
 
-> ⚠️ HTB rotates Starting Point machines periodically — verify this roster against [app.hackthebox.com/starting-point](https://app.hackthebox.com/starting-point) before treating it as canonical.
->
-> <i class="fa-crown" style="color:$warning;">:crown:</i> - needs **VIP** subscription
+> <a href="https://app.hackthebox.com/starting-point" class="button primary" data-icon="play">Start Track</a>
 
 ### 🟢 Tier 0
 
@@ -57,6 +50,12 @@
 * [ ] [Pennyworth](https://app.hackthebox.com/machines/Pennyworth)(Linux) — Jenkins RCE
 * [ ] [Tactics](https://app.hackthebox.com/machines/Tactics) (Windows)— SMB null session, PSExec
 
+| Machine |   |   |
+| ------- | - | - |
+|         |   |   |
+|         |   |   |
+|         |   |   |
+
 ### 🔴 Tier 2
 
 > Full chain: enum → foothold → privesc. Two flags (user + root).
@@ -69,3 +68,10 @@
 * [ ] [Markup](https://app.hackthebox.com/machines/MarkUp) (Windows) <i class="fa-crown" style="color:$warning;">:crown:</i>
 * [ ] [Base](https://app.hackthebox.com/machines/Base)(Linux) <i class="fa-crown" style="color:$warning;">:crown:</i>
 
+
+
+| Machine |   |   |
+| ------- | - | - |
+|         |   |   |
+|         |   |   |
+|         |   |   |
