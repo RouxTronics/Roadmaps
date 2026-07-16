@@ -4,9 +4,9 @@
 
 ## Try Hack Me
 
+* [Rooms](try-hack-me/rooms.md)
 * [Free](try-hack-me/free.md)
 * [Free 2](try-hack-me/free-2.md)
-* [Rooms](try-hack-me/rooms.md)
 
 ## Hack The Box
 
