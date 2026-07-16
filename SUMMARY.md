@@ -18,6 +18,5 @@
 
 ***
 
-* [Personal Room & Modules](personal-room.md)
 * [picoCTF](picoctf.md)
 * [Page 2](page-2.md)
