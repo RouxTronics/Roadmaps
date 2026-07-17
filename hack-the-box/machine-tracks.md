@@ -8,70 +8,23 @@
 
 ### 📊 Progress Summary
 
-| Tier                   | Focus                          | Items | Done |
-| ---------------------- | ------------------------------ | ----- | ---- |
-| Starting Point  Tier 0 | VPN, basic service interaction | 8     | 3    |
-| Starting Point Tier 1  | Single-step exploitation       | 6     | 0    |
-| Starting Point Tier 2  | Full kill chain, 2 flags       | 9     | 0    |
-
 ***
 
 ## Starting Point
 
-> <a href="https://app.hackthebox.com/starting-point" class="button primary" data-icon="play">Start Track</a>
-
-### 🟢 Tier 0
-
-> Fundamentals: connect, enumerate, interact. No real exploitation.
+> Total : 25 Machines
 >
-> 8 Machines - 4 Free
+> Tier 0 : 0.1 - 0.8
+>
+> Tier 1 : 1.1 -1.10
+>
+> Tier 2 : 2.1 - 2.7 - Full chain: enum → foothold → privesc. Two flags (user + root).
 
-* [x] ⭐ [Meow](https://app.hackthebox.com/machines/Meow) (Linux)— Telnet
-* [x] ⭐ [Fawn](https://app.hackthebox.com/machines/Fawn) (Linux)— FTP
-* [x] ⭐ [Dancing](https://app.hackthebox.com/machines/Dancing)(Windows) — SMB
-* [ ] [Redeemer](https://app.hackthebox.com/machines/Redeemer)(Linux) — Redis
-* [ ] [Explosion](https://app.hackthebox.com/machines/Explosion) (Windows)<i class="fa-crown" style="color:$warning;">:crown:</i> — RDP
-* [ ] [Preignition](https://app.hackthebox.com/machines/Preignition)(Linux) <i class="fa-crown" style="color:$warning;">:crown:</i> — Nginx misconfig
-* [ ] [Mongod](https://app.hackthebox.com/machines/Mongod)(Linux) <i class="fa-crown" style="color:$warning;">:crown:</i> — MongoDB
-* [ ] [Synced](https://app.hackthebox.com/machines/Synced) (Linux)<i class="fa-crown" style="color:$warning;">:crown:</i> — Rsync
-
-### 🟡 Tier 1
-
-> Single primary exploitation step, one flag.
-
-* [ ] ⭐ [Appointment](https://app.hackthebox.com/machines/Appointment) (Linux)— SQL injection auth bypass
-* [ ] ⭐ [Sequel](https://app.hackthebox.com/machines/Sequel) (Linux)— MySQL creds
-* [ ] ⭐ [Crocodile](https://app.hackthebox.com/machines/Crocodile) (Linux)— FTP anon + creds reuse
-* [ ] Responder (Windows)
-* [ ] Three (Linux)
-* [ ] Funnel (Linux)
-* [ ] Bike (Linux)
-* [ ] [Ignition](https://app.hackthebox.com/machines/Ignition) (Linux)— Magento default creds
-* [ ] [Pennyworth](https://app.hackthebox.com/machines/Pennyworth)(Linux) — Jenkins RCE
-* [ ] [Tactics](https://app.hackthebox.com/machines/Tactics) (Windows)— SMB null session, PSExec
-
-| Machine |   |   |
-| ------- | - | - |
-|         |   |   |
-|         |   |   |
-|         |   |   |
-
-### 🔴 Tier 2
-
-> Full chain: enum → foothold → privesc. Two flags (user + root).
-
-* [ ] ⭐ [Vaccine](https://app.hackthebox.com/machines/Vaccine) (Linux) — FTP, SQLi, GTFOBin
-* [ ] ⭐ [Oopsie](https://app.hackthebox.com/machines/Oopsie)(Linux) — IDOR, file upload, SUID
-* [ ] ⭐ [Archetype](https://app.hackthebox.com/machines/Archetype) (Windows)— MSSQL xp\_cmdshell, WinRM
-* [ ] [Unified](https://app.hackthebox.com/machines/Unified)(Linux) — Log4Shell, MongoDB
-* [ ] [Included](https://app.hackthebox.com/machines/Included)(Linux) <i class="fa-crown" style="color:$warning;">:crown:</i>
-* [ ] [Markup](https://app.hackthebox.com/machines/MarkUp) (Windows) <i class="fa-crown" style="color:$warning;">:crown:</i>
-* [ ] [Base](https://app.hackthebox.com/machines/Base)(Linux) <i class="fa-crown" style="color:$warning;">:crown:</i>
+<a href="https://app.hackthebox.com/starting-point" class="button primary" data-icon="play">Start Track</a>
 
 
 
-| Machine |   |   |
-| ------- | - | - |
-|         |   |   |
-|         |   |   |
-|         |   |   |
+<table><thead><tr><th width="80.52862548828125">Nr.</th><th>Machines</th><th>OS  | Focus</th><th data-type="checkbox">Completed</th></tr></thead><tbody><tr><td>0.1</td><td><a href="https://app.hackthebox.com/machines/Meow">Meow</a> </td><td>Linux | Telnet</td><td>true</td></tr><tr><td>0.2</td><td><a href="https://app.hackthebox.com/machines/Fawn">Fawn</a> </td><td>Linux |  FTP</td><td>true</td></tr><tr><td>0.3</td><td><a href="https://app.hackthebox.com/machines/Dancing">Dancing</a></td><td>Windows | SMB</td><td>true</td></tr><tr><td>0.4</td><td><a href="https://app.hackthebox.com/machines/Redeemer">Redeemer</a></td><td>Linux | Redis</td><td>true</td></tr><tr><td>0.5</td><td><a href="https://app.hackthebox.com/machines/Explosion">Explosion</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Windows | RDP</td><td>true</td></tr><tr><td>0.6</td><td><a href="https://app.hackthebox.com/machines/Preignition">Preignition</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Linux | Nginx misconfig</td><td>true</td></tr><tr><td>0.7</td><td><a href="https://app.hackthebox.com/machines/Mongod">Monogod</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Linux | Monogod</td><td>true</td></tr><tr><td>0.8</td><td><a href="https://app.hackthebox.com/machines/Synced">Synced</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Linux | Rsync</td><td>true</td></tr><tr><td>1.1</td><td><a href="https://app.hackthebox.com/machines/Appointment">Appointment</a> </td><td>Linux | SQL injection auth bypass</td><td>false</td></tr><tr><td>1.2</td><td><a href="https://app.hackthebox.com/machines/Sequel">Sequel</a> </td><td>(Linux | MySQL creds</td><td>false</td></tr><tr><td>1.3</td><td><a href="https://app.hackthebox.com/machines/Crocodile">Crocodile</a> </td><td>Linux |  FTP anon + creds reuse</td><td>false</td></tr><tr><td>1.4</td><td><a href="https://app.hackthebox.com/machines/Responder">Responder</a> </td><td>Windows</td><td>false</td></tr><tr><td>1.5</td><td><a href="https://app.hackthebox.com/machines/Three">Three</a> </td><td>Linux</td><td>false</td></tr><tr><td>1.6</td><td><a href="https://app.hackthebox.com/machines/Funnel">Funnel</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Linux</td><td>false</td></tr><tr><td>1.7</td><td><a href="https://app.hackthebox.com/machines/Bike">Bike</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Linux</td><td>false</td></tr><tr><td>1.8</td><td><a href="https://app.hackthebox.com/machines/Ignition">Ignition</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Linux | Magento default creds</td><td>false</td></tr><tr><td>1.9</td><td><a href="https://app.hackthebox.com/machines/Pennyworth">Pennyworth</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Linux |  Jenkins RCE</td><td>false</td></tr><tr><td>1.10</td><td><a href="https://app.hackthebox.com/machines/Tactics">Tactics</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Windows | SMB null session, PSExec</td><td>false</td></tr><tr><td>2.1</td><td><a href="https://app.hackthebox.com/machines/Vaccine">Vaccine</a> </td><td>(Linux) — FTP, SQLi, GTFOBin</td><td>false</td></tr><tr><td>2.2</td><td><a href="https://app.hackthebox.com/machines/Oopsie">Oopsie</a></td><td>Linux) — IDOR, file upload, SUID</td><td>false</td></tr><tr><td>2.3</td><td><a href="https://app.hackthebox.com/machines/Archetype">Archetype</a></td><td>(Windows)— MSSQL xp_cmdshell, WinRM</td><td>false</td></tr><tr><td>2.4</td><td><a href="https://app.hackthebox.com/machines/Unified">Unified</a></td><td>(Linux) — Log4Shell, MongoDB</td><td>false</td></tr><tr><td>2.5</td><td><a href="https://app.hackthebox.com/machines/Included">Included</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>(Linux) ​</td><td>false</td></tr><tr><td>2.6</td><td><a href="https://app.hackthebox.com/machines/MarkUp">Markup</a>  <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Windows)</td><td>false</td></tr><tr><td>2.7</td><td><a href="https://app.hackthebox.com/machines/Base">Base</a> <i class="fa-crown" style="color:$warning;">:crown:</i></td><td>Linux</td><td>false</td></tr></tbody></table>
+
+
+
