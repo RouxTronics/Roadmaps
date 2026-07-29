@@ -4,7 +4,9 @@
 * [Try Hack Me](try-hack-me.md)
 * [Hack The Box](hack-the-box/README.md)
   * [Certifications](hack-the-box/certifications/README.md)
+    * [CJCA](hack-the-box/certifications/cjca.md)
     * [CPTS](hack-the-box/certifications/cpts.md)
+  * [COAE](hack-the-box/coae.md)
 
 ## Try Hack Me
 
