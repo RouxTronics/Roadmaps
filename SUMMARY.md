@@ -3,7 +3,8 @@
 * [Roadmaps](README.md)
 * [Try Hack Me](try-hack-me.md)
 * [Hack The Box](hack-the-box/README.md)
-  * [Certifications](hack-the-box/certifications.md)
+  * [Certifications](hack-the-box/certifications/README.md)
+    * [CPTS](hack-the-box/certifications/cpts.md)
 
 ## Try Hack Me
 
