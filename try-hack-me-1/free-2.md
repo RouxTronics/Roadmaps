@@ -3,6 +3,8 @@
 ## 🛡️ 500+ Free TryHackMe Rooms (Cost: 💸 $0.00!) 🛡️
 
 > 502 free rooms across 28 categories · [Official Free Path](https://tryhackme.com/resources/blog/free_path)
+>
+> <i class="fa-crown" style="color:$warning;">:crown:</i> - needs **VIP/Paid** subscription
 
 ### 📊 Progress Summary
 
