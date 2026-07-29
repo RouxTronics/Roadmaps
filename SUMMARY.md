@@ -1,13 +1,14 @@
 # Table of contents
 
 * [Roadmaps](README.md)
+* [Try Hack Me](try-hack-me.md)
 * [Hack The Box](hack-the-box.md)
 
 ## Try Hack Me
 
-* [Rooms](try-hack-me/rooms.md)
-* [Free](try-hack-me/free.md)
-* [Free 2](try-hack-me/free-2.md)
+* [Rooms](try-hack-me-1/rooms.md)
+* [Free](try-hack-me-1/free.md)
+* [Free 2](try-hack-me-1/free-2.md)
 
 ## Hack The Box
 
