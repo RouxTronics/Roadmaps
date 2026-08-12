@@ -9,12 +9,9 @@
     * [CPTS](hack-the-box/certifications/cpts.md)
     * [COAE](hack-the-box/certifications/coae.md)
     * [CWES](hack-the-box/certifications/cwes.md)
-
-## Try Hack Me
+  * [Machine Tracks](hack-the-box/machine-tracks.md)
 
 ## Hack The Box
-
-* [Machine Tracks](hack-the-box-1/machine-tracks.md)
 
 ***
 
