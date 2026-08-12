@@ -1,6 +1,8 @@
-# Free 2
+---
+description: 500+ Free TryHackMe Rooms
+---
 
-## 🛡️ 500+ Free TryHackMe Rooms (Cost: 💸 $0.00!) 🛡️
+# Rooms
 
 > 502 free rooms across 28 categories · [Official Free Path](https://tryhackme.com/resources/blog/free_path)
 >

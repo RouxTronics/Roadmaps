@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Roadmaps](README.md)
-* [Try Hack Me](try-hack-me.md)
+* [Try Hack Me](try-hack-me/README.md)
+  * [Rooms](try-hack-me/rooms.md)
 * [Hack The Box](hack-the-box/README.md)
   * [Certifications](hack-the-box/certifications/README.md)
     * [CJCA](hack-the-box/certifications/cjca.md)
@@ -10,10 +11,6 @@
     * [CWES](hack-the-box/certifications/cwes.md)
 
 ## Try Hack Me
-
-* [Rooms](try-hack-me-1/rooms.md)
-* [Free](try-hack-me-1/free.md)
-* [Free 2](try-hack-me-1/free-2.md)
 
 ## Hack The Box
 
