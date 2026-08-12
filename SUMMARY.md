@@ -7,6 +7,7 @@
     * [CJCA](hack-the-box/certifications/cjca.md)
     * [CPTS](hack-the-box/certifications/cpts.md)
     * [COAE](hack-the-box/certifications/coae.md)
+    * [CWES](hack-the-box/certifications/cwes.md)
 
 ## Try Hack Me
 
