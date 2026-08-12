@@ -10,10 +10,5 @@
     * [COAE](hack-the-box/certifications/coae.md)
     * [CWES](hack-the-box/certifications/cwes.md)
   * [Machine Tracks](hack-the-box/machine-tracks.md)
-
-## Hack The Box
-
-***
-
 * [picoCTF](picoctf.md)
 * [Over The Wire](over-the-wire.md)
