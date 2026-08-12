@@ -101,6 +101,7 @@ description: 500+ Free TryHackMe Rooms
 * [ ] [OpenVAS](https://tryhackme.com/room/openvas)
 * [ ] [ISO27001](https://tryhackme.com/room/iso27001)
 * [ ] [UltraTech](https://tryhackme.com/room/ultratech1)
+* [ ] [CyberChef: The Basics](https://tryhackme.com/room/cyberchefbasics)
 
 ***
 
