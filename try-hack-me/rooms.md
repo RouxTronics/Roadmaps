@@ -40,6 +40,9 @@ description: 500+ Free TryHackMe Rooms
 | 💀 Insane CTF            |   1   |   0  |
 | 🎲 Misc                  |   43  |   0  |
 | 🎉 Special Events        |   12  |   0  |
+| **Total**                |       |  29  |
+
+
 
 ***
 
@@ -57,7 +60,7 @@ description: 500+ Free TryHackMe Rooms
 * [ ] [Preparation](https://tryhackme.com/room/preparation)
 * [ ] [Intro to Logs](https://tryhackme.com/room/introtologs)
 * [ ] [Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
-* [ ] [Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+* [x] [Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
 * [x] [Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 * [ ] [SDLC](https://tryhackme.com/room/sdlc)
 * [x] [OpenVPN](https://tryhackme.com/room/openvpn)
@@ -73,7 +76,7 @@ description: 500+ Free TryHackMe Rooms
 ### 🐧 Linux Fundamentals
 
 * [ ] [Linux Modules](https://tryhackme.com/room/linuxmodules)
-* [ ] [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+* [x] [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 ***
 
@@ -122,7 +125,7 @@ description: 500+ Free TryHackMe Rooms
 
 ### 💻 Scripting
 
-* [ ] [Python Basics](https://tryhackme.com/room/pythonbasics)
+* [x] [Python Basics](https://tryhackme.com/room/pythonbasics)
 * [ ] [Python Playground](https://tryhackme.com/room/pythonplayground)
 * [ ] [Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 * [ ] [Peak Hill](https://tryhackme.com/room/peakhill)
@@ -134,7 +137,7 @@ description: 500+ Free TryHackMe Rooms
 
 ### 🌐 Networking
 
-* [ ] [Introductory Networking](https://tryhackme.com/room/introtonetworking)
+* [x] [Introductory Networking](https://tryhackme.com/room/introtonetworking)
 * [x] [What is Networking?](https://tryhackme.com/room/whatisnetworking)
 * [ ] [Networking](https://tryhackme.com/room/bpnetworking)
 * [ ] [HTTP in detail](https://tryhackme.com/room/httpindetail)
@@ -148,8 +151,8 @@ description: 500+ Free TryHackMe Rooms
 * [ ] [Snyk Open Source](https://tryhackme.com/room/snykopensource)
 * [ ] [Snyk Code](https://tryhackme.com/room/snykcode)
 * [ ] [Intro to IaC](https://tryhackme.com/room/introtoiac)
-* [ ] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
-* [ ] [tmux](https://tryhackme.com/room/rptmux)
+* [x] [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+* [x] [tmux](https://tryhackme.com/room/rptmux)
 * [ ] [REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 * [ ] [Hydra](https://tryhackme.com/room/hydra)
 * [ ] [Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
@@ -178,7 +181,7 @@ description: 500+ Free TryHackMe Rooms
 
 * [ ] [Breaking RSA](https://tryhackme.com/room/breakrsa)
 * [ ] [Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
-* [ ] [Crack the hash](https://tryhackme.com/room/crackthehash)
+* [x] [Crack the hash](https://tryhackme.com/room/crackthehash)
 * [ ] [Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 * [ ] [Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 * [ ] [Brute It](https://tryhackme.com/room/bruteit)
@@ -251,7 +254,7 @@ description: 500+ Free TryHackMe Rooms
 * [ ] [Windows Applications Forensics](https://tryhackme.com/room/windowsapplications)
 * [ ] [Legal Considerations in DFIR](https://tryhackme.com/room/dfirprocesslegalconsiderations)
 * [ ] [Servidae: Log Analysis in ELK](https://tryhackme.com/room/servidae)
-* [ ] [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
+* [x] [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)
 * [ ] [Identification & Scoping](https://tryhackme.com/room/identificationandscoping)
 * [ ] [Digital Forensics Case B4DM755](https://tryhackme.com/room/caseb4dm755)
 * [ ] [Linux Server Forensics](https://tryhackme.com/room/linuxserverforensics)
@@ -360,8 +363,8 @@ description: 500+ Free TryHackMe Rooms
 
 ### 🟢 Easy CTF
 
-* [ ] [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
-* [ ] [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+* [x] [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro)
+* [x] [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 * [ ] [Pyrat](https://tryhackme.com/room/pyrat)
 * [ ] [Cheese CTF](https://tryhackme.com/room/cheesectfv10)
 * [ ] [U.A. High School](https://tryhackme.com/room/yueiua)
@@ -458,6 +461,8 @@ description: 500+ Free TryHackMe Rooms
 * [ ] [VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 * [ ] [Cat Pictures](https://tryhackme.com/room/catpictures)
 * [ ] [Mustacchio](https://tryhackme.com/room/mustacchio)
+* [ ] [Neighbour](https://tryhackme.com/room/neighbour)
+* [ ] [TakeOver](https://tryhackme.com/room/takeover)
 
 ***
 
