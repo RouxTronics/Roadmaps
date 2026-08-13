@@ -45,9 +45,9 @@ description: 500+ Free TryHackMe Rooms
 
 ### 🧑‍💻 Introductory Rooms
 
-* [ ] [Welcome](https://tryhackme.com/room/hello)
-* [ ] [How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-* [ ] [Tutorial](https://tryhackme.com/room/tutorial)
+* [x] [Welcome](https://tryhackme.com/room/hello)
+* [x] [How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+* [x] [Tutorial](https://tryhackme.com/room/tutorial)
 * [ ] [Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
 * [ ] [Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
 * [ ] [Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
@@ -58,14 +58,14 @@ description: 500+ Free TryHackMe Rooms
 * [ ] [Intro to Logs](https://tryhackme.com/room/introtologs)
 * [ ] [Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 * [ ] [Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
-* [ ] [Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
+* [x] [Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 * [ ] [SDLC](https://tryhackme.com/room/sdlc)
-* [ ] [OpenVPN](https://tryhackme.com/room/openvpn)
-* [ ] [Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-* [ ] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-* [ ] [Introductory Researching](https://tryhackme.com/room/introtoresearch)
-* [ ] [Regular Expressions](https://tryhackme.com/room/catregex)
-* [ ] [Careers in Cyber](https://tryhackme.com/room/careersincyber)
+* [x] [OpenVPN](https://tryhackme.com/room/openvpn)
+* [x] [Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+* [x] [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+* [x] [Introductory Researching](https://tryhackme.com/room/introtoresearch)
+* [x] [Regular Expressions](https://tryhackme.com/room/catregex)
+* [x] [Careers in Cyber](https://tryhackme.com/room/careersincyber)
 * [ ] [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
 ***
@@ -93,7 +93,7 @@ description: 500+ Free TryHackMe Rooms
 * [ ] [x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
 * [ ] [Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 * [ ] [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-* [ ] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+* [x] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 * [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 * [ ] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 * [ ] [Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
@@ -135,7 +135,7 @@ description: 500+ Free TryHackMe Rooms
 ### 🌐 Networking
 
 * [ ] [Introductory Networking](https://tryhackme.com/room/introtonetworking)
-* [ ] [What is Networking?](https://tryhackme.com/room/whatisnetworking)
+* [x] [What is Networking?](https://tryhackme.com/room/whatisnetworking)
 * [ ] [Networking](https://tryhackme.com/room/bpnetworking)
 * [ ] [HTTP in detail](https://tryhackme.com/room/httpindetail)
 * [ ] [DNS in detail](https://tryhackme.com/room/dnsindetail)
